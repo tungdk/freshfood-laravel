@@ -1,0 +1,35 @@
+.product__pagination{
+    float: right;
+    margin-right: 15px;
+}
+.product__discount__slider .col-lg-3 {
+	max-width: 100%;
+}
+.product{
+	padding-top: 40px;
+	padding-bottom: 40px !important;
+}
+.hero__categories__all{
+    padding: 10px 25px 10px 20px;
+}
+body {
+	height: 100%;
+	font-family: 'Roboto', sans-serif;
+	-webkit-font-smoothing: antialiased;
+	font-synthesis: antialiased;
+}
+h6 {
+	margin: 0;
+	color: #111111;
+	font-weight: 400;
+	font-family:'Roboto', sans-serif;
+}
+p {
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+	color: #6f6f6f;
+	font-weight: 400;
+	line-height: 26px;
+	margin: 0 0 15px 0;
+}
+
